@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div className="hero-section">
       <div className="hero-content">
-        <h1>Aravind</h1>
+        <h1>Pavan</h1>
         <p>
           Discover the latest footwear and accessories designed to keep you
           ahead of the trend.
